@@ -1,0 +1,3 @@
+R5T.T0061.Construction - Construction project for IServiceProviderOperator, IServiceCollectionOperator, and related extension method bases..
+
+GOALS:
